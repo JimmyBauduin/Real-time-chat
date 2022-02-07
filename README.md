@@ -1,9 +1,9 @@
 # T-JAV-501-LIL-5-1-dashboard-jimmy.bauduin
 
-#job_board
-job_board is a job offer website
+# Real time chat
+This is a realtime chat project using socket.io, expressjs, nodejs back-end and reactjs front-end
 
-##Installation
+## Installation
 
 Use the package manager nodejs with Node Package Manager.
 After clone or install this projects and launch in the folder associate (You will have to do this for the client folder and the server folder) :
